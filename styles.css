@@ -1,6 +1,15 @@
 body{
-    background-color: rgb(223, 223, 253);
+    background-color: rgb(240, 240, 255);
 
+}
 
+h1{ margin:10px;
+    color:black;
+    text-align:center;
+
+}
+p{
+    size: 14px;
+    text-align:center;
 
 }
