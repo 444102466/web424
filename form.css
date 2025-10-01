@@ -1,0 +1,60 @@
+body{
+    background-color: rgb(243, 241, 237);
+
+}
+
+table{
+    border: 1px solid #333;
+    border-collapse: collapse;
+    margin: 30px;
+}
+th{
+    background-color:rgb(143, 206, 197);
+    text-align: center;
+    padding:7px;
+    border: 1px solid #333;
+    color:rgb(0, 0, 0);
+
+
+
+}
+td{
+    border:1px solid #333;
+    padding:7px;
+    text-align:left;
+}
+
+form{
+    margin:20px
+}
+
+p{
+    font-size: 24px;
+    margin:20px;
+
+}
+
+label{
+    font-size:18px;
+    margin: 10px;
+}
+
+input{
+    padding:5px;
+    margin:10px;
+}
+
+h1{
+    font-size:30px;
+    color:#31414f;
+    margin:10px;
+}
+
+button{
+
+    margin-left: 350px;
+    padding:10px;
+    background-color: #31414f;
+    color:whitesmoke;
+    border-radius: 20%;
+}
